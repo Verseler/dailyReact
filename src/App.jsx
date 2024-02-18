@@ -1,11 +1,11 @@
-import Form from "./exercises/17-02-2024/Form"
+import Fetching from "./exercises/18-02-2024/Fetching"
 
 function App() {
  
 
   return (
     <>
-      <Form />  
+      <Fetching />
     </>
   )
 }

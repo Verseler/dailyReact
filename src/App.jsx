@@ -1,11 +1,11 @@
-import Fetching from "./exercises/18-02-2024/Fetching"
+import CV from "./exercises/18-02-2024/CV"
 
 function App() {
  
 
   return (
     <>
-      <Fetching />
+      <CV />
     </>
   )
 }

@@ -9,6 +9,9 @@ module.exports = {
   ],
   prefix: "",
   theme: {
+    fontFamily: {
+      'creepster': ['Creepster', 'system-ui'],
+    },
     container: {
       center: true,
       padding: "2rem",

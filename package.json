@@ -22,6 +22,7 @@
     "clsx": "^2.1.0",
     "html2canvas": "^1.4.1",
     "immer": "^10.0.3",
+    "js-cookie": "^3.0.5",
     "jspdf": "^2.5.1",
     "lucide-react": "^0.331.0",
     "prop-types": "^15.8.1",
